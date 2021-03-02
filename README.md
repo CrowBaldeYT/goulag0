@@ -1,4 +1,4 @@
-### Hello there, I'm [goulag0][github]👋
+### Hello there, I'm Halil I. Dilsiz aka [goulag0][github]👋
 
 ### My Progamming Language is only [Python][python].
 
